@@ -1,1 +1,1 @@
-# Reciept-Generator
+# Student Enrollment Management
